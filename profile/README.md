@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-# Development Services
+# Premium Plus Development Services
 ## Support
 ### Import and Data transformations
 - Import users
@@ -55,6 +41,8 @@
 - Import Chat Shortcuts
 - hide/show chat based on website url
 - set chat department based on website url
+- authenticate users
+- set user info based on currently logged in website user
 
 ## Explore
 - Create custom exports
