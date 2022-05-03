@@ -1,12 +1,12 @@
 # Premium Plus Development Services
 ## 📩 Support
 ### Import and Data transformations
-- Import users
-- Import organizations
+- Import tickets
+- Import users, organizations
 - Import macro's
+- Sync ticket field values with external sources
 - Bulk convert custom fields into dynamic content
-- Bulk delete users
-- Bulk delete organizations
+- Bulk delete users, organizations
 
 ### Apps
 - Show Customer info from CRM next to Ticket
@@ -32,15 +32,21 @@
 
 ## Guide
 ### Import and Data transformations
-- Import Articles
-- Migrate Articles
-- Hide forms and fields
-- Prefill forms and fields
+- Import articles
+- Migrate articles
+- Copy categories, sections, articles
+- Bulk search and replace text in articles
+- Bulk change article (source) locale
+- Export content to file for translation by external companies, import translations when done
 
 ### Themes
-- Custom themes based on mockup
-- Customize existing templates
 - Create designs from scratch
+- Apply branding to existing themes
+- Customize existing themes
+- Create custom themes based on mockup
+- Create custom pages to display external content
+- Hide forms and fields
+- Prefill forms and fields
 
 ### SEO and DNS
 - Assist with DNS Config
